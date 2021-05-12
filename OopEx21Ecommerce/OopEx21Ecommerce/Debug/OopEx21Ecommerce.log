@@ -1,0 +1,6 @@
+﻿  Ex21.cpp
+C:\Users\user\source\repos\OopEx21Ecommerce\OopEx21Ecommerce\Database.h(56,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\OopEx21Ecommerce\OopEx21Ecommerce\Database.h(43): message : while compiling class template member function 'void DatabaseNamespace::DbSet<ProductNamespace::ProductItem>::deleteById(const int &)'
+C:\Users\user\source\repos\OopEx21Ecommerce\OopEx21Ecommerce\Ex21.cpp(149): message : see reference to function template instantiation 'void DatabaseNamespace::DbSet<ProductNamespace::ProductItem>::deleteById(const int &)' being compiled
+C:\Users\user\source\repos\OopEx21Ecommerce\OopEx21Ecommerce\Database.h(214): message : see reference to class template instantiation 'DatabaseNamespace::DbSet<ProductNamespace::ProductItem>' being compiled
+  OopEx21Ecommerce.vcxproj -> C:\Users\user\source\repos\OopEx21Ecommerce\Debug\OopEx21Ecommerce.exe
